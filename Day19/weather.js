@@ -28,7 +28,8 @@ module.exports = function (location, callback){
             else
             {
               
-
+                //Json file
+                console.log(JSON.stringify(body, null, 4));
                 callback('it\'s ' + body.main.temp +' in '+ body.name + '!!');
             }
         });
