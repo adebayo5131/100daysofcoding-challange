@@ -24,5 +24,5 @@ console.log('Encypted Messge: ' + EncryptedMessage +'\n');
 var bytes = crypto.AES.decrypt(EncryptedMessage,secretKey);
 var decryptedMessage = JSON.parse(bytes.toString(crypto.enc.Utf8));
 
- console.log(+ decryptedMessage)
+ console.log(decryptedMessage)
 console.log(decryptedMessage.secretKeyName);
