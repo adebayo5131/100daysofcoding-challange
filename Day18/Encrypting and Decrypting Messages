@@ -1,0 +1,7 @@
+install npm install crypto-js@3.1.5 --save this will updated ypur Json folder and make available the cypto command.
+
+To run start create a variable.Example.
+
+var Crypto = required ('crypto-js);
+
+run file with command node example-encryption.js
