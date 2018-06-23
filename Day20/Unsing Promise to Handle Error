@@ -1,0 +1,2 @@
+Promise is used to handle errors in javascript. Also the information from one promise can be passed into another function or poromsie.
+I will be using Promise in handling errors in my weatherapp application.
