@@ -1,0 +1,7 @@
+Creating a web server using Express js.
+This is useful in deploring your HTML/CSS and javascript files to a localhost server.
+
+
+You have to install npm files:
+npm init
+nmp express --save
