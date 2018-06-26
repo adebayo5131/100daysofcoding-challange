@@ -1,0 +1,9 @@
+Download Heroku on your computer 
+create an account.
+run heroku --version to know if it was succesfully installed
+run heroku create to create an app
+run heroku open to see the app created.
+
+Heroku is used in deloying your website onto the internet.
+
+Goggle heroku for more information.
