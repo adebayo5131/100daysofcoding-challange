@@ -1,0 +1,9 @@
+Description: Creating a rest API for my todo items using Postman.
+Postman can be downloaded from chrome by just typing postman on google and adding it as 
+an extension.
+
+
+This rest API helps in tracking todo items.
+The code is yet to be completed but the current stage is functional.
+
+npm install underscore should be installed to run the file has it contains underscore.js documentation
