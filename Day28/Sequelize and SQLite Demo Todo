@@ -1,1 +1,14 @@
 This is a demo of  sequelize and sqlite from the classes I am taking on Udemy
+
+Creating a Todo Demo using sequelize and sqlite3. This demo shows how sequelize and sqlite works. I learned how to create a basic list of to-do items and also how to fetch them
+
+For sequelize documentation visit: http://docs.sequelizejs.com/…/installa…/getting-started.html
+
+You will also need to download Database for SQLite. This helps you view all data and files you add.
+visit:https://sqlitebrowser.org/
+
+A demo can be ran using https://sqlitebrowser.org/
+To add more Todo items to the file uncomment the TODO. create code and commented out the todo.findByid then
+run code in your command line.
+
+Remeber to install npm init and all the dependent files.
