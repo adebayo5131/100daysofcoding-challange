@@ -1,0 +1,6 @@
+Getting started with sockets and learning how to send live data back and forth between users.
+
+npm install socket.io --save
+npm install jquery --save
+
+save file from https://cdn.socket.io/socket.io-1.3.7.js into a js folder
