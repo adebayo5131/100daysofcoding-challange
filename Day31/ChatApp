@@ -1,1 +1,10 @@
+https://adebayo-chatapp.herokuapp.com/
 
+Description: Creating a chat application using Socket.io and Moment.js.
+Moment.js provides a time format to display time in several formats to install you can run npm install moment@2.22.2 --save file which will update package.JSon files.
+
+Added a simple front-end to the chat application using Jquery.
+
+I also deployed to Heroku where we can chat. The app is not  100 percent functional as I will be adding more functionality as I proceed.
+ 
+#Note its basic and not funny functional.
