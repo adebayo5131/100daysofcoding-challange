@@ -1,5 +1,0 @@
-Added username and chat room to the chat application.
-Users can now login with specific username with a specific room.
-During a chat a clients name will display once then client joins the chat
-and also when the client leaves the chat.
-Also added a Login Page which ts users to login before engaging in any chat
