@@ -1,0 +1,8 @@
+Node latest version from nodejs.org 
+Babel babeljs.io
+
+Working with ES6
+install babel preset
+
+Nodemon helps to automatically rerun node commands from the terminal 
+install globally : npm install -g nodemon
