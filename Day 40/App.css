@@ -1,0 +1,55 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
+
+.App{
+
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20%;
+    
+
+}
+
+.App-title{
+
+  color: grey;
+  
+  font-size: 50px;
+  letter-spacing: 10px;
+  text-shadow: 1px 1px 1px rgba(10,10,10, 0.7);
+
+}
+
+.App-span{
+  
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: grey;
+  
+}
+
+
+.Clock-days, .Clock-hours,.Clock-minutes,.Clock-seconds{
+
+    display: inline;
+    margin: 10px;
+    color: grey;
+    text-transform: uppercase;
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 1px rgba(10,10,10, 0.7);
+
+}
+
+.Deadline-input {
+    font-size: 23px;
+    margin: 10px;
+  }
+
+  .btn-custom {
+    background-color: grey;
+    color: white;
+}
+.form{
+        text-align: center;
+}
+
