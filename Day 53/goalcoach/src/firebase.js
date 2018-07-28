@@ -1,12 +1,12 @@
 import *as firebase from 'firebase';
 
 const config = {
-    apiKey: "AIzaSyBUDkRFBUFhzTbCMln6Yjy3nkU_siBSxv4",
-    authDomain: "goalcoach-1a4e9.firebaseapp.com",
-    databaseURL: "https://goalcoach-1a4e9.firebaseio.com",
-    projectId: "goalcoach-1a4e9",
+    apiKey: "Your apikey goes here",
+    authDomain: "Your domain",
+    databaseURL: "Your database URL",
+    projectId: "Your project name",
     storageBucket: "",
-    messagingSenderId: "920551819100"
+    messagingSenderId: "sender ID"
   };
 
  export const firebaseApp = firebase.initializeApp(config)
