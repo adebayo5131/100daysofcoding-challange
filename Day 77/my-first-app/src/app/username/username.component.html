@@ -1,0 +1,21 @@
+<div class="container">
+
+  <div class="row">
+
+    <div class="col-xm-12">
+
+      <label>Username Assignment </label>
+
+      <input type="text" class="form-control" [(ngModel)]="userName">
+
+      <p>{{userName}}</p>
+
+      <button class="btn btn-primary"
+      [disabled]=" userName === ' ' " (click) ="userName =''">
+        Reset User</button>
+
+    </div>
+  </div>
+</div>
+
+
